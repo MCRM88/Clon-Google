@@ -153,7 +153,11 @@ main{
     gap: 5px;
 }
 #final-main a{
+    color: blue;
     text-decoration: none;
+}
+#final-main a:hover{
+    text-decoration: underline;
 }
 /*--------------main--------------*/
 /*--------------footer--------------*/
